@@ -1,38 +1,38 @@
 {
   
   "Construção Civil":
-  [
+   [
     {
       "id"   : 1,
-      "nome" : "Betoneira 400 Litros Profissional",
-      "descrição": "Betoneira 400 Litros Profissional Motor 2CV Monofásico com Kit de Segurança - MAQTRON-M-400",
-      "preço": "3.999,90"
+      "nome" : "Morsa / Torno Linha Profissional",
+      "descrição": "Morsa/ Torno Linha Profissional Número 6 - METALSUL-TBP061",
+      "preço": "389,90 "
     },
     {
       "id"   : 2,
-      "nome" : "Cortador de Piso e Azulejos Profissional ",
-      "descrição": "Cortador de Piso e Azulejos Profissional Super 1150 mm - CORTAG-61286",
-      "preço": "819,17"
+      "nome" : "Repuxadeira Elétrica Spotca",
+      "descrição": "Repuxadeira Elétrica Spotcar 3000 19kVA - V8 BRASIL-98499",
+      "preço": "2.199,90"
     },
     {
       "id"   : 3,
-      "nome" : "Desempenadeira Elétrica Para Reboco",
-      "descrição": "Desempenadeira Elétrica Para Reboco MDE 1200W - MENEGOTTI-40860",
-      "preço": "759,90"
+      "nome" : "Alinhador de Monobloco",
+      "descrição": "Alinhador de Monobloco Super 27 Peças Haste Móvel Viga 6Pol. p/ Autos e Caminhonetes - RIBEIRO-RA0004",
+      "preço": "6.549,90"
     },
     {
       "id"   : 4,
-      "nome" : "Corta Vergalhão Extrapesado",
-      "descrição": "Corta Vergalhão Extrapesado 42Pol. - Tramontina-44034142",
-      "preço": "1.729,90"
+      "nome" : "Alicate de Latoeiro",
+      "descrição": "Alicate de Latoeiro de Pontas Largas e Direitas 53mm - BETA-010770026",
+      "preço": "336,90"
     },
     {
       "id"   : 5,
-      "nome" : "Argamassadeira 45 Litros",
-      "descrição": "Argamassadeira 45 Litros 220V Trifásico - CSM-MC-45",
-      "preço": "8.749,90"
+      "nome" : "Kit Ventosa Dupla",
+      "descrição": "Kit Ventosa Dupla com 2 Unidades 70kg - PUMA-S001",
+      "preço": "1.029,90"
     }
-  ],
+   ],
   "Funilaria":
    [
     {
