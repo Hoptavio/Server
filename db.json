@@ -1,65 +1,103 @@
 {
-  "Equipamentos": 
+  "Funilaria e pintura": 
   [
     {
       "id"   : 1,
-      "nome" : "KIT DE FERRAMENTAS",
-      "descrição": "Jogo de Ferramentas Oficina Master com Chaves Combinadas com Catraca - 178 Peças - ROBUST BY GEDORE SOLID-5000R",
-      "preço": "1.170,90"
-    },
-    {
-      "id"   : 2,
-      "nome" : "PARAFUSADEIRA / FURADEIRA",
-      "descrição": "Parafusadeira/Furadeira a Bateria 12V Li-Ion 3/8 Pol. com Carregador Bivolt Maleta e Acessórios - VONDER-PFV012",
-      "preço": "234,90"
-    },
-    {
-      "id"   : 3,
-      "nome" : "Serra Mármore",
-      "descrição": "Serra Mármore 125mm Corte em Ângulo 1450W - MAKITA-4100NH2Z",
-      "preço": "589,90"
-    },
-    {
-      "id"   : 4,
       "nome" : "Compressor de Ar",
       "descrição": "Compressor de Ar 20 Pés 250 Litros Trifásico Alta Pressão Industrial 20+APV 20/250L - CHIAPERINI-690",
       "preço": "5.679,90"
     },
     {
-      "id"   : 5,
-      "nome" : "Gerador Gasolina",
-      "descrição": "Gerador Gasolina VG3800 4T 208CC 7HP 3,00kva Bivolt com Partida Manual - VULCAN-56518",
-      "preço": "1.779,90 "
-    },
-    {
-      "id"   : 6,
-      "nome" : "Motosserra a Gasolina",
-      "descrição": "Motosserra a Gasolina 2T 55cc 3HP com Sabre de 18 Pol. - VULCAN-VSL550",
-      "preço": "746,57"
-    },
-    {
-      "id"   : 7,
+      "id"   : 2,
       "nome" : "Lavadora Industrial Profissional",
       "descrição": "Lavadora Industrial Profissional Motor WEG 3HP Monofásica Bivolt com Carrinho e Mangueira 3/8 Pol. 10M - CHIAPERINI-LJ3100/CC",
       "preço": "3.399,90"
     },
     {
-      "id"   : 8,
-      "nome" : "Máquina de Solda Multi Processo MigFlex",
-      "descrição": "Máquina de Solda Multi Processo MigFlex 160 BV 160A Bivolt - BOXER-2005020",
-      "preço": "2.159,90"
-    },
-    {
-      "id"   : 9,
+      "id"   : 3,
       "nome" : "Elevador Trifásico Automotivo Vermelho",
       "descrição": "Elevador Trifásico Automotivo 2500Kg Vermelho - MAQUINAS RIBEIRO-ER2500TV",
       "preço": "7.999,90 "
     },
     {
-      "id"   : 10,
-      "nome" : "Medidor de Compressão 2 em 1",
-      "descrição": "Medidor de Compressão 2 em 1 para Motores 8 e 16 V - FORTGPRO-FG8810",
-      "preço": "164,90"
+      "id"   : 4,
+      "nome" : "Pistola de Pintura",
+      "descrição": "Pistola de Pintura HVLP 600 ml e Bico 1.4 mm - LEE TOOLS-681148",
+      "preço": "240,90"
+    },
+    {
+      "id"   : 5,
+      "nome" : "Maquina de Pintura Airless",
+      "descrição": "Maquina de Pintura Airless MPA 120 1,2Hp - VONDER-6220001220",
+      "preço": "2.499,00"
     }
-  ]
+    
+    
+  ],
+  "Construção Civil":
+  [
+    {
+      "id"   : 1,
+      "nome" : "Betoneira 400 Litros Profissional",
+      "descrição": "Betoneira 400 Litros Profissional Motor 2CV Monofásico com Kit de Segurança - MAQTRON-M-400",
+      "preço": "3.999,90"
+    },
+    {
+      "id"   : 2,
+      "nome" : "Cortador de Piso e Azulejos Profissional ",
+      "descrição": "Cortador de Piso e Azulejos Profissional Super 1150 mm - CORTAG-61286",
+      "preço": "819,17"
+    },
+    {
+      "id"   : 3,
+      "nome" : "Desempenadeira Elétrica Para Reboco",
+      "descrição": "Desempenadeira Elétrica Para Reboco MDE 1200W - MENEGOTTI-40860",
+      "preço": "759,90"
+    },
+    {
+      "id"   : 4,
+      "nome" : "Corta Vergalhão Extrapesado",
+      "descrição": "Corta Vergalhão Extrapesado 42Pol. - Tramontina-44034142",
+      "preço": "1.729,90"
+    },
+    {
+      "id"   : 5,
+      "nome" : "Argamassadeira 45 Litros",
+      "descrição": "Argamassadeira 45 Litros 220V Trifásico - CSM-MC-45",
+      "preço": "8.749,90"
+    }
+  ],
+  "Funilaria":
+   [
+    {
+      "id"   : 1,
+      "nome" : "Morsa / Torno Linha Profissional",
+      "descrição": "Morsa/ Torno Linha Profissional Número 6 - METALSUL-TBP061",
+      "preço": "389,90 "
+    },
+    {
+      "id"   : 2,
+      "nome" : "Repuxadeira Elétrica Spotca",
+      "descrição": "Repuxadeira Elétrica Spotcar 3000 19kVA - V8 BRASIL-98499",
+      "preço": "2.199,90"
+    },
+    {
+      "id"   : 3,
+      "nome" : "Alinhador de Monobloco",
+      "descrição": "Alinhador de Monobloco Super 27 Peças Haste Móvel Viga 6Pol. p/ Autos e Caminhonetes - RIBEIRO-RA0004",
+      "preço": "6.549,90"
+    },
+    {
+      "id"   : 4,
+      "nome" : "Alicate de Latoeiro",
+      "descrição": "Alicate de Latoeiro de Pontas Largas e Direitas 53mm - BETA-010770026",
+      "preço": "336,90"
+    },
+    {
+      "id"   : 5,
+      "nome" : "Kit Ventosa Dupla",
+      "descrição": "Kit Ventosa Dupla com 2 Unidades 70kg - PUMA-S001",
+      "preço": "1.029,90"
+    }
+   ]
 }
