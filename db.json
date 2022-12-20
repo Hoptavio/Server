@@ -1,39 +1,5 @@
 {
-  "Funilaria e pintura": 
-  [
-    {
-      "id"   : 1,
-      "nome" : "Compressor de Ar",
-      "descrição": "Compressor de Ar 20 Pés 250 Litros Trifásico Alta Pressão Industrial 20+APV 20/250L - CHIAPERINI-690",
-      "preço": "5.679,90"
-    },
-    {
-      "id"   : 2,
-      "nome" : "Lavadora Industrial Profissional",
-      "descrição": "Lavadora Industrial Profissional Motor WEG 3HP Monofásica Bivolt com Carrinho e Mangueira 3/8 Pol. 10M - CHIAPERINI-LJ3100/CC",
-      "preço": "3.399,90"
-    },
-    {
-      "id"   : 3,
-      "nome" : "Elevador Trifásico Automotivo Vermelho",
-      "descrição": "Elevador Trifásico Automotivo 2500Kg Vermelho - MAQUINAS RIBEIRO-ER2500TV",
-      "preço": "7.999,90 "
-    },
-    {
-      "id"   : 4,
-      "nome" : "Pistola de Pintura",
-      "descrição": "Pistola de Pintura HVLP 600 ml e Bico 1.4 mm - LEE TOOLS-681148",
-      "preço": "240,90"
-    },
-    {
-      "id"   : 5,
-      "nome" : "Maquina de Pintura Airless",
-      "descrição": "Maquina de Pintura Airless MPA 120 1,2Hp - VONDER-6220001220",
-      "preço": "2.499,00"
-    }
-    
-    
-  ],
+  
   "Construção Civil":
   [
     {
