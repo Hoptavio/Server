@@ -1,68 +1,317 @@
 {
-  "Arroz":
-   [
-    {
-      "id"   : 1,
-      "nome" : "Morsa / Torno Linha Profissional",
-      "descrição": "Morsa/ Torno Linha Profissional Número 6 - METALSUL-TBP061",
-      "preço": "389,90 "
-    },
-    {
-      "id"   : 2,
-      "nome" : "Repuxadeira Elétrica Spotca",
-      "descrição": "Repuxadeira Elétrica Spotcar 3000 19kVA - V8 BRASIL-98499",
-      "preço": "2.199,90"
-    },
-    {
-      "id"   : 3,
-      "nome" : "Alinhador de Monobloco",
-      "descrição": "Alinhador de Monobloco Super 27 Peças Haste Móvel Viga 6Pol. p/ Autos e Caminhonetes - RIBEIRO-RA0004",
-      "preço": "6.549,90"
-    },
-    {
-      "id"   : 4,
-      "nome" : "Alicate de Latoeiro",
-      "descrição": "Alicate de Latoeiro de Pontas Largas e Direitas 53mm - BETA-010770026",
-      "preço": "336,90"
-    },
-    {
-      "id"   : 5,
-      "nome" : "Kit Ventosa Dupla",
-      "descrição": "Kit Ventosa Dupla com 2 Unidades 70kg - PUMA-S001",
-      "preço": "1.029,90"
-    }
-   ],
-  "Funilaria":
-   [
-    {
-      "id"   : 1,
-      "nome" : "Morsa / Torno Linha Profissional",
-      "descrição": "Morsa/ Torno Linha Profissional Número 6 - METALSUL-TBP061",
-      "preço": "389,90 "
-    },
-    {
-      "id"   : 2,
-      "nome" : "Repuxadeira Elétrica Spotca",
-      "descrição": "Repuxadeira Elétrica Spotcar 3000 19kVA - V8 BRASIL-98499",
-      "preço": "2.199,90"
-    },
-    {
-      "id"   : 3,
-      "nome" : "Alinhador de Monobloco",
-      "descrição": "Alinhador de Monobloco Super 27 Peças Haste Móvel Viga 6Pol. p/ Autos e Caminhonetes - RIBEIRO-RA0004",
-      "preço": "6.549,90"
-    },
-    {
-      "id"   : 4,
-      "nome" : "Alicate de Latoeiro",
-      "descrição": "Alicate de Latoeiro de Pontas Largas e Direitas 53mm - BETA-010770026",
-      "preço": "336,90"
-    },
-    {
-      "id"   : 5,
-      "nome" : "Kit Ventosa Dupla",
-      "descrição": "Kit Ventosa Dupla com 2 Unidades 70kg - PUMA-S001",
-      "preço": "1.029,90"
-    }
-   ]
-}
+  "Turma1": [
+      {
+          "id":1,
+          "nome":"Aluno",
+          "presença" : "0/48",
+          "nota" : "0/10"
+      },
+      {
+        "id":2,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":3,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":4,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":5,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":6,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":7,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":8,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":9,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":10,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      }
+  
+    ],
+    "Turma2": [
+      {
+          "id":1,
+          "nome":"Aluno",
+          "presença" : "0/48",
+          "nota" : "0/10"
+      },
+      {
+        "id":2,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":3,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":4,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":5,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":6,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":7,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":8,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":9,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":10,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      }
+  
+    ],
+    "Turma3": [
+      {
+          "id":1,
+          "nome":"Aluno",
+          "presença" : "0/48",
+          "nota" : "0/10"
+      },
+      {
+        "id":2,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":3,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":4,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":5,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":6,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":7,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":8,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":9,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":10,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      }
+  
+    ],
+    "Turma4": [
+      {
+          "id":1,
+          "nome":"Aluno",
+          "presença" : "0/48",
+          "nota" : "0/10"
+      },
+      {
+        "id":2,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":3,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":4,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":5,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":6,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":7,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":8,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":9,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":10,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      }
+  
+    ],
+    "Turma5": [
+      {
+          "id":1,
+          "nome":"Aluno",
+          "presença" : "0/48",
+          "nota" : "0/10"
+      },
+      {
+        "id":2,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":3,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":4,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":5,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":6,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":7,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":8,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":9,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      },
+      {
+        "id":10,
+        "nome":"Aluno",
+        "presença" : "0/48",
+        "nota" : "0/10"
+      }
+  
+    ]
+}   
